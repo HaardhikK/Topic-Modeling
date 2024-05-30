@@ -7,9 +7,9 @@ such events is crucial for disaster management and response.
 We applied various preprocessing techniques such as word vectorization, data cleaning, stop-word removal, and manual
 removal of specific words to prepare the dataset. 
 Subsequently,we employed four topic modeling algorithms:
-Latent Semantic Analysis (LSA) 
-Latent Dirichlet Allocation (LDA)
-BERT Transformer 
-Llama-with BERT 
+Latent Semantic Analysis (LSA) <br />
+Latent Dirichlet Allocation (LDA)<br />
+BERT Transformer <br />
+Llama-with BERT <br />
 models to identify underlying topics in the tweet dataset. Through our analysis, we aim to provide 
 insights into the topics discussed during natural disasters and compare the performance of the 4 models.
