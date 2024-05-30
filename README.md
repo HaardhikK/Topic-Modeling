@@ -6,7 +6,7 @@ With a significant increase in the frequency and severity of natural disasters, 
 such events is crucial for disaster management and response.
 We applied various preprocessing techniques such as word vectorization, data cleaning, stop-word removal, and manual
 removal of specific words to prepare the dataset. 
-Subsequently,we employed four topic modeling algorithms:
+Subsequently,we employed four topic modeling algorithms:<br />
 Latent Semantic Analysis (LSA) <br />
 Latent Dirichlet Allocation (LDA)<br />
 BERT Transformer <br />
