@@ -1,15 +1,14 @@
 # Topic-Modeling
 ## Exploring Deep Learning Techniques for Topic Modeling of Natural Disaster Tweets
 
-Explores the utilization of machine learning techniques to analyze tweets related to natural disasters.
-With a significant increase in the frequency and severity of natural disasters, understanding social media discourse during
-such events is crucial for disaster management and response.
-We applied various preprocessing techniques such as word vectorization, data cleaning, stop-word removal, and manual
-removal of specific words to prepare the dataset. 
-Subsequently,we employed four topic modeling algorithms:<br />
-1.Latent Semantic Analysis (LSA) <br />
-2.Latent Dirichlet Allocation (LDA)<br />
-3.BERT Transformer <br />
-4.Llama-with BERT <br />
-models to identify underlying topics in the tweet dataset. Through our analysis, we aim to provide 
-insights into the topics discussed during natural disasters and compare the performance of the 4 models.
+The sheer quantity and depth of social media data have opened a gateway to
+understand more about human behavior during certain conditions. The advent
+of topic modeling models has significantly helped uncover underlying hidden patterns and offered new perspectives on interpreting social phenomena. However,
+social media content is often brief, text-based and unstructured in nature, presenting difficulties for data collection and analysis. In this paper, we assess four
+topic modeling techniques: Latent Semantic Analysis (LSA), Latent Dirichlet
+Allocation (LDA), BERT Transformer, and Llama3 with BERTopic. Using Twitter posts and tweets made during hurricanes, wildfires, blizzards, and flooding,
+we implemented a comprehensive preprocessing pipeline that included stop-word
+removal, word vectorization, data cleaning, and the manual exclusion of unnecessary phrases.This research evaluates the benefits of each technique, highlighting
+each algorithm’s strengths and weaknesses, particularly in the context of social
+science applications. Furthermore, it sheds light on the efficacy of using traditional topic modeling models and generative models in conjunction with topic
+modelling to analyse Twitter data.
